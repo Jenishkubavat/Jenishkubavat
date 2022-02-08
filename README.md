@@ -17,7 +17,7 @@ Konichiwa ,i'm Jenish Kubavat <img src="https://media.giphy.com/media/hvRJCLFzca
 <h4 >
 I'm a gamer, weeb and developer
 </h4>
-<img align="right" alt="GIF" src="https://github.com/Jenishkubavat/jenishkubavat/blob/master/img/hi-anime.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://i.gifer.com/5eKX.gif?raw=true" width="500" height="320" />
 <br/>
 <br/>
 
@@ -59,5 +59,3 @@ I'm a gamer, weeb and developer
 </details>
 <br/>
 <br/>
-<h2 align="center"  >bye ,have a nice day!</h2>
-<img align="center" alt="GIF" src="https://64.media.tumblr.com/3630ce0875360402666bf7bbf4831508/tumblr_inline_pqy698Ip1v1r1f464_500.gifv" width="500" height="320" />

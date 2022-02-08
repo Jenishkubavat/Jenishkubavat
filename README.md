@@ -1,5 +1,4 @@
-<h3
-style="color:#ffb86c;">
+<h3>
 Konichiwa ,i'm Jenish Kubavat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 	<a href="https://discord.gg/9NmuDMyk2y">
   <img align="left" alt="Jenish's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -15,10 +14,10 @@ Konichiwa ,i'm Jenish Kubavat <img src="https://media.giphy.com/media/hvRJCLFzca
 </a>
 	<br />
 
-<h4 style="color:#f1fa8c">
+<h4 >
 I'm a gamer, weeb and developer
 </h4>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="" width="500" height="320" />
 <br/>
 <br/>
 

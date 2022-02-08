@@ -29,13 +29,12 @@ I'm a gamer, weeb and developer
 <br>
 
 ### Languages and Tools:
-#### major 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style=" margin-right:10px; background-color:black;padding:2px;  " />
-<img align="left" alt="Angular js" width="26px" src="" style=" margin-right:10px; background-color:black;padding:2px;  " />
+<img align="left" alt="Angular js" width="26px" src="https://github.com/Jenishkubavat/jenishkubavat/blob/master/img/icons8-angular-a-typescript-based-open-source-web-application-framework-24.png" style=" margin-right:10px; background-color:black;padding:2px;  " />
 
-<img align="left" alt="" width="26px" src="" style=" margin-right:10px; background-color:black;padding:2px;  " />
+<img align="left" alt="Babel" width="26px" src="https://github.com/Jenishkubavat/jenishkubavat/blob/master/img/icons8-angular-a-typescript-based-open-source-web-application-framework-24.png" style=" margin-right:10px; background-color:black;padding:2px;  " />
 
-<img align="left" alt="" width="26px" src="" style=" margin-right:10px; background-color:black;padding:2px;  " />
+<img align="left" alt="C/C++" width="26px" src="https://github.com/Jenishkubavat/jenishkubavat/blob/master/img/icons8-c%2B%2B-48.png" style=" margin-right:10px; background-color:black;padding:2px;  " />
 
 <img align="left" alt="" width="26px" src="" style=" margin-right:10px; background-color:black;padding:2px;  " />
 

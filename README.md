@@ -32,13 +32,27 @@ I'm a gamer, weeb and developer
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style=" margin-right:10px; background-color:black;padding:2px;  " />
 <img align="left" alt="Angular js" width="26px" src="https://github.com/Jenishkubavat/jenishkubavat/blob/master/img/icons8-angular-a-typescript-based-open-source-web-application-framework-24.png" style=" margin-right:10px; background-color:black;padding:2px;  " />
 
-<img align="left" alt="Babel" width="26px" src="https://github.com/Jenishkubavat/jenishkubavat/blob/master/img/icons8-angular-a-typescript-based-open-source-web-application-framework-24.png" style=" margin-right:10px; background-color:black;padding:2px;  " />
+<img align="left" alt="Babel" width="26px" src="https://github.com/Jenishkubavat/jenishkubavat/blob/master/img/icons8-babel-64.png" style=" margin-right:10px; background-color:black;padding:2px;  " />
 
 <img align="left" alt="C/C++" width="26px" src="https://github.com/Jenishkubavat/jenishkubavat/blob/master/img/icons8-c%2B%2B-48.png" style=" margin-right:10px; background-color:black;padding:2px;  " />
 
-<img align="left" alt="" width="26px" src="" style=" margin-right:10px; background-color:black;padding:2px;  " />
+<img align="left" alt="C#" width="26px" src="https://github.com/Jenishkubavat/jenishkubavat/blob/master/img/icons8-c-sharp-logo-48.png" style=" margin-right:10px; background-color:black;padding:2px;  " />
 
-<img align="left" alt="" width="26px" src="" style=" margin-right:10px; background-color:black;padding:2px;  " />
+<img align="left" alt="Flutter" width="26px" src="https://github.com/Jenishkubavat/jenishkubavat/blob/master/img/icons8-flutter-48.png" style=" margin-right:10px; background-color:black;padding:2px;  " />
 
+<img align="left" alt="MongoDB" width="26px" src="https://github.com/Jenishkubavat/jenishkubavat/blob/master/img/icons8-mongodb-a-cross-platform-document-oriented-database-program-24.png" style=" margin-right:10px; background-color:black;padding:2px;  " />
 
+<img align="left" alt="Nodejs" width="26px" src="https://github.com/Jenishkubavat/jenishkubavat/blob/master/img/icons8-nodejs-48.png" style=" margin-right:10px; background-color:black;padding:2px;  " />
 
+<img align="left" alt="npm" width="26px" src="https://github.com/Jenishkubavat/jenishkubavat/blob/master/img/icons8-npm-48.png" style=" margin-right:10px; background-color:black;padding:2px;  " />
+
+<img align="left" alt="Python" width="26px" src="https://github.com/Jenishkubavat/jenishkubavat/blob/master/img/icons8-python-48.png" style=" margin-right:10px; background-color:black;padding:2px;  " />
+
+<img align="left" alt="React" width="26px" src="https://github.com/Jenishkubavat/jenishkubavat/blob/master/img/icons8-react-64.png" style=" margin-right:10px; background-color:black;padding:2px;  " />
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jenishkubavatr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>

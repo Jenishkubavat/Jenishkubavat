@@ -1,7 +1,5 @@
 <h3
-style="
-color:#ffb86c;
-">
+style="color:#ffb86c;">
 Konichiwa ,i'm Jenish Kubavat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 	<a href="https://discord.gg/9NmuDMyk2y">
   <img align="left" alt="Jenish's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />

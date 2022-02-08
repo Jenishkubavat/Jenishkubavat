@@ -50,9 +50,12 @@ I'm a gamer, weeb and developer
 
 <img align="left" alt="React" width="26px" src="https://github.com/Jenishkubavat/jenishkubavat/blob/master/img/icons8-react-64.png" style=" margin-right:10px; background-color:black;padding:2px;  " />
 
+<br/>
+<br/>
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jenishkubavatr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jenishkubavat&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>

@@ -25,12 +25,13 @@ I'm a gamer, weeb and developer
 - 👯 I’m proud student at  the Maharaja Sayajirao University of Baroda
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to read books in my free time
-- 😻 Check out the new project i created: [Smart Brain](https://smartbraindemo.herokuapp.com/)
+- 😻 Check out the new project i created: [saSmart Brain](https://smartbraindemo.herokuapp.com/)
 <br>
 
 ### Languages and Tools:
 #### major 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px; background-color:black" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style=" margin-right:10px; background-color:black;padding:2px;  " />
+
 
 
 

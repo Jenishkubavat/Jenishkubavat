@@ -9,9 +9,7 @@ Konichiwa ,i'm Jenish Kubavat <img src="https://media.giphy.com/media/hvRJCLFzca
 <a href="https://www.linkedin.com/in/jenish-kubavat/">
   <img align="left" alt="Jenish's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/qsnxffehln5ivgcuu8uv58uua">
-  <img align="left" alt="Jenish's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+
 	<br />
 <img align="right" alt="GIF" src="https://github.com/Jenishkubavat/jenishkubavat/blob/master/img/webp.net-gifmaker__4_.gif?raw=true" width="500" height="320" />
 <h4 >

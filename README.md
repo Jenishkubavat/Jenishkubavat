@@ -10,7 +10,7 @@ Konichiwa ,i'm Jenish Kubavat <img src="https://media.giphy.com/media/hvRJCLFzca
   <img align="left" alt="Jenish's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-	<br />
+<br />
 <img align="right" alt="GIF" src="https://github.com/Jenishkubavat/jenishkubavat/blob/master/img/webp.net-gifmaker__4_.gif?raw=true" width="500" height="320" />
 <h4 >
 I'm a gamer, weeb and developer

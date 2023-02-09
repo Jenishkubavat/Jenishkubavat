@@ -16,7 +16,7 @@ I'm a gamer, weeb, and developer<br>🌱 I’m currently learning everything �
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jenishkubavat&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@JenishKubavat)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=JenishKubavat)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)

@@ -2,7 +2,7 @@
 Konichiwa ,i'm Jenish Kubavat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 # 💫 About Me:
-I'm a gamer, weeb, and developer<br>🌱 I’m currently learning everything 🤣<br>👯 I’m an SDE Jr. DotNet developer at sunflower lab<br>🥅 2022 Goals: Learn more about web3<br>⚡ Fun fact: I love to read books in my free time<br>😻 Check out the new project I created: Smart Brain
+I'm a gamer, weeb, and developer<br>🌱 I’m currently learning everything 🤣<br>👯 I’m an Jr. DotNet developer at sunflower lab<br>🥅 2022 Goals: Learn more about web3<br>⚡ Fun fact: I love to read books in my free time<br>😻 Check out the new project I created: Smart Brain
 
 
 ## 🌐 Socials:
